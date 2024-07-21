@@ -23,8 +23,8 @@ header {
     padding-top: 30px;
     height: 120px;
     min-height: 70px;
-    line-height: 2.0;
-    font-size: 1.2em;
+/*     line-height: 2.0;
+    font-size: 1.2em; */
 }
 
 header h1 {
